@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=Ionic&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/>
 
 </p>
